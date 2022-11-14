@@ -346,7 +346,7 @@ figcaption {
 
 .column.background-image {
   overflow: visible;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("https://www.enobl.com/assets/background-image.svg");
   background-position: 100% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -650,7 +650,7 @@ figcaption {
 }
 
 .wrapper.about {
-  background-image: url("https://uploads-ssl.webflow.com/63725ec74ca07b4af0aeee27/63725ec74ca07b5b8aaeee72_001.jpg");
+  background-image: url("https://www.enobl.com/assets/63725ec74ca07b5b8aaeee72_001.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -736,7 +736,7 @@ figcaption {
 }
 
 .wide-background._01 {
-  background-image: url("https://uploads-ssl.webflow.com/63725ec74ca07b4af0aeee27/63725ec74ca07b089eaeee5c_5b109a993a8396648e723c7a_screen-001.jpg");
+  background-image: url("https://www.enobl.com/assets/63725ec74ca07b089eaeee5c_5b109a993a8396648e723c7a_screen-001.jpg");
   background-position: 0px 0px;
   background-size: cover;
 }
